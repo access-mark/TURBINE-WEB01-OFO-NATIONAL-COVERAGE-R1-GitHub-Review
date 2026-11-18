@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://access-mark.github.io/TURBINE-WEB01-OFO-NATIONAL-COVERAGE-R1-Review/sitemap.xml
